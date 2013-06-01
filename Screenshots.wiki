@@ -1,28 +1,25 @@
 Screenshots of ZimHUD in action.
 
-NEW FONT
-http://i1360.photobucket.com/albums/r646/ZimmyWho/HUD_zpsfc0a14f2.png
-
 Main Menu
-http://i1360.photobucket.com/albums/r646/ZimmyWho/ZimHUD/MainMenu_zps3c2f70e8.png
 
-Team Selection
-http://i1360.photobucket.com/albums/r646/ZimmyWho/ZimHUD/TeamSelection_zpsb41a330a.png
+[img]http://i1360.photobucket.com/albums/r646/ZimmyWho/MainMenu_zpsec127919.png[/img]
+
 
 Spectator Tournament
-http://i1360.photobucket.com/albums/r646/ZimmyWho/ZimHUD/SpecTournament_zps822b7286.png
 
-Overheal
-http://i1360.photobucket.com/albums/r646/ZimmyWho/ZimHUD/Overheal_zps6da9935e.png
+[img]http://i1360.photobucket.com/albums/r646/ZimmyWho/SpecTournament_zps81eee115.png[/img]
 
-Medic
-http://i1360.photobucket.com/albums/r646/ZimmyWho/ZimHUD/Medic_zps619e90d5.png
-
-Low Health
-http://i1360.photobucket.com/albums/r646/ZimmyWho/ZimHUD/LowHealth_zps1d0509f5.png
 
 KOTH
-http://i1360.photobucket.com/albums/r646/ZimmyWho/ZimHUD/KOTH_zpsfe1fa7c4.png
 
-Disguise Menu
-http://i1360.photobucket.com/albums/r646/ZimmyWho/ZimHUD/DisguiseMenu_zps270dac46.png
+[img]http://i1360.photobucket.com/albums/r646/ZimmyWho/KOTH_zpsaf6e8b4b.png[/img]
+
+
+Medic/CTF
+
+[img]http://i1360.photobucket.com/albums/r646/ZimmyWho/CTF_zps5b9ab269.png[/img]
+
+
+Freeze Panel
+
+[img]http://i1360.photobucket.com/albums/r646/ZimmyWho/FreezePanel_zpse6b39bc1.png[/img]
