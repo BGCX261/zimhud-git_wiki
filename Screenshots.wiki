@@ -2,29 +2,24 @@ Screenshots of ZimHUD in action.
 
 Main Menu
 
-http://i1360.photobucket.com/albums/r646/ZimmyWho/MainMenu_zpsec127919.png
+http://i1360.photobucket.com/albums/r646/ZimmyWho/MainMenu_zps25fc354e.png
 
 
 Spectator Tournament
 
-http://i1360.photobucket.com/albums/r646/ZimmyWho/SpecTournament_zps81eee115.png
+http://i1360.photobucket.com/albums/r646/ZimmyWho/SpectatorTournament_zps8a272f8b.png
 
 
-KOTH
+Team Selection/KOTH
 
-http://i1360.photobucket.com/albums/r646/ZimmyWho/KOTH_zpsaf6e8b4b.png
-
-
-Medic/CTF
-
-http://i1360.photobucket.com/albums/r646/ZimmyWho/CTF_zps5b9ab269.png
+http://i1360.photobucket.com/albums/r646/ZimmyWho/TeamSelection_zps227d1140.png
 
 
-Freeze Panel
+Scoreboard
 
-http://i1360.photobucket.com/albums/r646/ZimmyWho/FreezePanel_zpse6b39bc1.png
+http://i1360.photobucket.com/albums/r646/ZimmyWho/Scoreboard_zps89b04b30.png
 
 
-NEW 6v6 Scoreboard
+Disguise Panel/cl_hud_minmode 0
 
-http://i1360.photobucket.com/albums/r646/ZimmyWho/6v6_zps6f8dea97.png
+http://i1360.photobucket.com/albums/r646/ZimmyWho/DisguisePanel_zpsfa0e8bdf.png
