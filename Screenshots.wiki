@@ -1,25 +1,34 @@
-Screenshots of ZimHUD 2.1 in action.
+Screenshots of ZimHUD in action.
 
 Main Menu
 
-http://i1360.photobucket.com/albums/r646/ZimmyWho/MainMenu_zps25fc354e.png
+http://i1360.photobucket.com/albums/r646/ZimmyWho/ZimHUDMenu_zpsad9f9d70.png
 
 
 Spectator Tournament
 
-http://i1360.photobucket.com/albums/r646/ZimmyWho/SpectatorTournament_zps8a272f8b.png
+http://i1360.photobucket.com/albums/r646/ZimmyWho/SpectatorTournament_zps61aa2f3c.png
+
+
+Class Selection
+http://i1360.photobucket.com/albums/r646/ZimmyWho/ClassSelection_zps5f18ba34.png
 
 
 Team Selection/KOTH
 
-http://i1360.photobucket.com/albums/r646/ZimmyWho/TeamSelection_zps227d1140.png
+http://i1360.photobucket.com/albums/r646/ZimmyWho/TeamMenu_zpsdc519302.png
 
 
 Scoreboard
 
-http://i1360.photobucket.com/albums/r646/ZimmyWho/Scoreboard_zps89b04b30.png
+http://i1360.photobucket.com/albums/r646/ZimmyWho/Scoreboard_zpsd1b89048.png
 
 
-Disguise Panel/cl_hud_minmode 0
+Minmode Disabled
 
-http://i1360.photobucket.com/albums/r646/ZimmyWho/DisguisePanel_zpsfa0e8bdf.png
+http://i1360.photobucket.com/albums/r646/ZimmyWho/Minmode0_zps9ccd3586.png
+
+
+Medic
+
+http://i1360.photobucket.com/albums/r646/ZimmyWho/Medic_zps5aa3712a.png
