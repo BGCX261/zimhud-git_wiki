@@ -7,7 +7,7 @@ http://i1360.photobucket.com/albums/r646/ZimmyWho/ZimHUDMenu_zpsad9f9d70.png
 
 Spectator Tournament
 
-http://i1360.photobucket.com/albums/r646/ZimmyWho/SpectatorTournament_zps61aa2f3c.png
+http://i1360.photobucket.com/albums/r646/ZimmyWho/SpecTourZim_zps85c37ca1.png
 
 
 Class Selection
@@ -26,8 +26,12 @@ http://i1360.photobucket.com/albums/r646/ZimmyWho/Scoreboard_zpsd1b89048.png
 
 Minmode Disabled
 
-http://i1360.photobucket.com/albums/r646/ZimmyWho/Minmode0_zps9ccd3586.png
+http://i1360.photobucket.com/albums/r646/ZimmyWho/Minmode0Zim_zps72388611.png
 
+
+Minmode Enabled with Captions
+
+http://i1360.photobucket.com/albums/r646/ZimmyWho/MinmodeCaption_zpsed874a9f.png
 
 Medic
 
